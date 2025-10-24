@@ -1,0 +1,118 @@
+{
+    "full_name": "Karan Moallim",
+    "name": "Karan",
+    "current_role": "Data & Digital Transformation Specialist",
+    "location": "Berlin, Germany",
+    "email": "karan.moallim@example.com",
+    "linkedin": "linkedin.com/in/karanmoallim",
+    "specialties": [
+      "Data Strategy & Governance",
+      "Digital Twin Development",
+      "AI-Driven Process Optimization",
+      "Data Architecture & Engineering",
+      "Business Process Transformation",
+      "Interdisciplinary Project Management"
+    ],
+    "years_experience": 3.5,
+    "education": [
+      {
+        "degree": "Master of Science in Industrial Engineering",
+        "institution": "Technische Universität Berlin",
+        "year": "2018"
+      },
+      {
+        "degree": "Bachelor of Science in Mechanical Engineering",
+        "institution": "Technische Universität Berlin",
+        "year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Consultant – Data & AI Strategy",
+        "company": "Reply Deutschland",
+        "period": "2023 – Present",
+        "responsibilities": [
+          "Advised clients on Data & AI strategies, focusing on the design and implementation of modern data architectures.",
+          "Identified use cases for AI-driven business process optimization and supported proof-of-concept development.",
+          "Facilitated workshops on data-driven innovation and digital transformation."
+        ]
+      },
+      {
+        "role": "Research Associate – Digital Twins & Data Architecture",
+        "company": "Fraunhofer IPK Berlin",
+        "period": "2018 – 2022",
+        "responsibilities": [
+          "Led interdisciplinary work packages in projects across energy, aerospace, and manufacturing sectors.",
+          "Developed data and process architectures for Digital Twin solutions and integrated AI applications for predictive maintenance and condition monitoring.",
+          "Modeled data flows, defined system interfaces, and managed data consistency across heterogeneous environments.",
+          "Supervised a student data science team and coordinated the design of prototype AI applications."
+        ]
+      }
+    ],
+    "technical_skills": {
+      "languages": ["Python", "SQL", "RegEx"],
+      "tools": ["Jira", "Confluence", "Azure AI Services", "Docker", "Kubernetes", "Apache Kafka", "Power BI"],
+      "concepts": ["Data Modeling", "ETL/ELT Pipelines", "Cloud Architecture", "Machine Learning Prototyping", "Process Automation", "BPMN", "Agile Product Ownership"]
+    },
+    "soft_skills": [
+      "Analytical Thinking",
+      "Interdisciplinary Collaboration",
+      "Stakeholder Communication",
+      "Structured Problem Solving",
+      "Strategic and Conceptual Thinking",
+      "Innovation-Driven Mindset"
+    ],
+    "certifications": [
+      {
+        "name": "Data Engineering Intensive Program",
+        "institution": "Data Science Retreat (Full-time)",
+        "year": "2023"
+      }
+    ],
+    "languages": [
+      { "language": "German", "level": "C1 – Professional Proficiency" },
+      { "language": "English", "level": "C1 – Professional Proficiency" },
+      { "language": "Somali", "level": "Native" }
+    ],
+    "career_focus": [
+      "Data-Driven Innovation",
+      "AI and Digital Twin Applications",
+      "Sustainable Digitalization Strategies",
+      "Public Sector & Industry 4.0 Transformation"
+    ],
+    "personal_values": [
+      "Integrity and Responsibility",
+      "Curiosity and Continuous Learning",
+      "Collaboration and Knowledge Sharing",
+      "Sustainability and Ethical Technology Use"
+    ],
+    "career_summary": "Karan Moallim is a data-driven innovation specialist with strong experience at the intersection of engineering, digital transformation, and AI. He combines analytical thinking, domain understanding, and system-level design skills to develop sustainable digital solutions. His professional journey spans applied research and consulting, where he contributed to building digital twins, data architectures, and AI-based process optimization strategies for industrial and energy sectors.",
+    "future_goals": [
+      "Shape scalable AI and Data Products that drive efficiency and sustainability.",
+      "Bridge domain expertise with technical innovation to support the energy transition and industrial transformation.",
+      "Expand leadership in interdisciplinary teams focusing on digital ecosystems and smart data use."
+    ],
+    "interests": [
+      "AI and Cognitive Systems",
+      "Digital Twin Ecosystems",
+      "Industrial Automation",
+      "Data Ethics and Responsible AI",
+      "Energy Transition and Smart Grids"
+    ],
+    "availability": {
+      "relocation": true,
+      "preferred_location": "Berlin, Germany or hybrid/remote in EU",
+      "travel_readiness": "up to 25%"
+    },
+    "digital_twin_metadata": {
+      "last_updated": "2025-10-04",
+      "profile_version": "1.2",
+      "data_sources": [
+        "CV_DE_Moallim.pdf",
+        "previous applications and cover letters",
+        "conversation context"
+      ],
+      "profile_confidence": 0.96
+    }
+  }
+  
